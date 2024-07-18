@@ -2,7 +2,7 @@
 
 # Sentiment Analysis with IMDb Movie Reviews
 
-The project focuses on analyzing the sentiment of IMDb movie reviews using natural language processing (NLP) techniques.The goal is to classify movie reviews as positive or negative based on their text content.
+The project focuses on analyzing the sentiment of IMDb movie reviews using natural language processing (NLP) techniques.The goal is to classify movie reviews as positive, Neutral or negative based on their text content.
 
 ## Steps:
 
@@ -18,7 +18,7 @@ Results Visualization: The confusion matrix is plotted to illustrate the model's
 
 ## Overview:
 
-Dataset: IMDb movie reviews dataset from NLTK.
+Dataset: IMDb movie reviews dataset.
 
 Approach: Naive Bayes classifier for sentiment analysis.
 
